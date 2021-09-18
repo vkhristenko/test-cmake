@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/main1.dir/main.cpp.o  -o main1  -Wl,-rpath,/Users/vk/software/test-cmake/exec1/build/util util/libutil.dylib 

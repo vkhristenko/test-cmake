@@ -1,0 +1,1 @@
+/Users/vk/software/test-cmake/package1/install/lib/libpackage1.dylib
