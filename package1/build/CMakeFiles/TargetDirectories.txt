@@ -1,7 +1,0 @@
-/Users/vk/software/test-cmake/package1/build/CMakeFiles/install/local.dir
-/Users/vk/software/test-cmake/package1/build/CMakeFiles/install/strip.dir
-/Users/vk/software/test-cmake/package1/build/CMakeFiles/install.dir
-/Users/vk/software/test-cmake/package1/build/CMakeFiles/package1.dir
-/Users/vk/software/test-cmake/package1/build/CMakeFiles/list_install_components.dir
-/Users/vk/software/test-cmake/package1/build/CMakeFiles/rebuild_cache.dir
-/Users/vk/software/test-cmake/package1/build/CMakeFiles/edit_cache.dir

@@ -1,7 +1,0 @@
-/Users/vk/software/test-cmake/exec1/build/CMakeFiles/rebuild_cache.dir
-/Users/vk/software/test-cmake/exec1/build/CMakeFiles/edit_cache.dir
-/Users/vk/software/test-cmake/exec1/build/CMakeFiles/main2.dir
-/Users/vk/software/test-cmake/exec1/build/CMakeFiles/main1.dir
-/Users/vk/software/test-cmake/exec1/build/util/CMakeFiles/rebuild_cache.dir
-/Users/vk/software/test-cmake/exec1/build/util/CMakeFiles/edit_cache.dir
-/Users/vk/software/test-cmake/exec1/build/util/CMakeFiles/util.dir

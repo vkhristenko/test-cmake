@@ -1,1 +1,0 @@
-/usr/local/opt/llvm/bin/clang++  --std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -dynamiclib -Wl,-headerpad_max_install_names  -o libpackage1.dylib -install_name @rpath/libpackage1.dylib CMakeFiles/package1.dir/test.cpp.o 
