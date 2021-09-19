@@ -5,12 +5,12 @@ add_custom_command(
 )
 
 add_library(MathFunctions SHARED test1.cpp test2.cpp ${CMAKE_CURRENT_BINARY_DIR}/Table.h)
-target_include_directories(MathFunctions PRIVATE "${CMAKE_CURRENT_BINARY_DIR}")
-
-#target_include_directories(
-#    MathFunctions
-#    INTERFACE ${CMAKE_CURRENT_SOURCE_DIR}
-#)
+#target_include_directories(MathFunctions PRIVATE "${CMAKE_CURRENT_BINARY_DIR}")
+target_include_directories(
+    MathFunctions
+    PRIVATE "${CMAKE_CURRENT_BINARY_DIR}"
+    INTERFACE $<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}> $<INSTALL_INTERFACE:include>
+)
 
 install(TARGETS MathFunctions DESTINATION lib EXPORT MathFunctionsTargets)
 install(FILES test1.hpp test2.hpp DESTINATION include)
