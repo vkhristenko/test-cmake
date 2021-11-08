@@ -1,0 +1,1 @@
+message(STATUS "from ${CMAKE_CURRENT_SOURCE_DIR}")
